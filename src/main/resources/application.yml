@@ -1,0 +1,10 @@
+server:
+  port: 9095
+  servlet:
+    context-path: /dreamjob
+
+
+dev:
+  store:
+    size:
+      capacity: 3
